@@ -1,21 +1,31 @@
-.vertical-menu {
-    width: 200px;
-  }
-  
-  .vertical-menu a {
-    background-color: #eee;
-    color: black;
-    display: block;
-    padding: 12px;
-    text-decoration: none;
-  }
-  
-  .vertical-menu a:hover {
-    background-color: #ccc;
-  }
-  
-  .vertical-menu a.active {
+ body{
     background-color: #04AA6D;
-    color: white;
+  
   }
+  .vertical-menu {
+      width: 200px;
+    }
+  .vertical-menu a {
+      background-color: rgb(221, 187, 187);
+      color: rgb(12, 1, 5)));
+      display: block;
+      padding: 12px;
+      text-decoration: none;
+    }
+    
+    .vertical-menu a:hover {
+      background-color: #0ce69d;
+    }
+    
+    .vertical-menu a.active {
+      background-color:#e2aab1 ;
+      color:#000000;
+    }
+  
+   
+    td {
+      height: 50px;
+      vertical-align: bottom;
+    }
+  
   
