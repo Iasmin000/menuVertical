@@ -2,7 +2,7 @@ body{
   background-color: #04AA6D;
 }
  .Menu-Vertical {
-    width: 200px; margin-left: auto;
+    width: 200px; margin-left: auto; margin-top: auto;
   }
   
   .Menu-Vertical a {
