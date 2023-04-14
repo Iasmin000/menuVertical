@@ -1,0 +1,25 @@
+body{
+  background-color: #04AA6D;
+}
+ .Menu-Vertical {
+    width: 200px; 
+  }
+  
+  .Menu-Vertical a {
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+  }
+  
+  .Menu-Vertical a:hover {
+    background-color: #ccc;
+  }
+  
+  .Menu-Vertical a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+ 
